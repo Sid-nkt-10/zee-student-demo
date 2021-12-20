@@ -1,0 +1,5 @@
+server:
+  port: 8080
+
+logging:
+  file: C:\Users\navee\Desktop\ELK-LOG\elk-logstash.log
